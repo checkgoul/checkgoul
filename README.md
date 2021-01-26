@@ -1,9 +1,10 @@
 ## Hey 👋
 
 - 努力向一名Java程序员迈进
+- 📫 [个人邮箱](1179061082@qq.com)
 
 <!--
-**Ryyyc/ryyyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**checkgoul/checkgoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
