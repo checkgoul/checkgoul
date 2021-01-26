@@ -1,7 +1,7 @@
 ## Hey 👋
 
 - 努力向一名Java程序员迈进
-- 📫 [个人邮箱](1179061082@qq.com)
+- 📫 1179061082@qq.com
 
 <!--
 **checkgoul/checkgoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
