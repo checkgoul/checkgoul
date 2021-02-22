@@ -2,6 +2,8 @@
 
 - 热爱并学习Java , 但C++是最好的语言(Hhhhhh) 🤪
 - 📫 1179061082@qq.com
+- 99年人,重铸90后的荣光,我辈义不容辞
+- 力扣简单题目暴力终结者
 
 <!--
 **checkgoul/checkgoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
